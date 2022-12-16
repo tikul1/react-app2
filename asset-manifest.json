@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tikul1.github.io/react-app2/static/css/main.887ce786.css",
+    "main.js": "/tikul1.github.io/react-app2/static/js/main.c6662535.js",
+    "static/js/787.93c0ff9f.chunk.js": "/tikul1.github.io/react-app2/static/js/787.93c0ff9f.chunk.js",
+    "index.html": "/tikul1.github.io/react-app2/index.html",
+    "main.887ce786.css.map": "/tikul1.github.io/react-app2/static/css/main.887ce786.css.map",
+    "main.c6662535.js.map": "/tikul1.github.io/react-app2/static/js/main.c6662535.js.map",
+    "787.93c0ff9f.chunk.js.map": "/tikul1.github.io/react-app2/static/js/787.93c0ff9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887ce786.css",
+    "static/js/main.c6662535.js"
+  ]
+}
